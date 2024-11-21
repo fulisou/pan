@@ -21,7 +21,7 @@
 
 ## 演示环境
 
-首页：<https://reman.xwd.pw>
+首页：[https://www.sobaozang.com](https://reman.xwd.pw)
 
 后台登录：<https://reman.xwd.pw/login>
 
@@ -35,7 +35,7 @@
 
 系统建议：Ubuntu 22.04
 
-雨云地址：[https://www.rainyun.com](https://www.rainyun.com/Mzc4MDI=_)
+雨云地址：[https://www.rainyun.com](https://www.rainyun.com/51yunpan)
 
 ## 截图
 
