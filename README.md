@@ -35,7 +35,7 @@
 
 系统建议：Ubuntu 22.04
 
-雨云地址：[https://www.rainyun.com](https://www.rainyun.com/51yunpan)
+雨云地址：[https://www.rainyun.com](https://www.rainyun.com/51yunpan_)
 
 ## 截图
 
